@@ -17,16 +17,16 @@
 5  Plugin do VS code Cucumber
 
 # Passo a Passo
- 1    Clicar em "code" no GitHub
-   2 Clicar em "Download Zip" para baixar o arquivo
-   3    Acessar a área de Download do PC
-   5    Encontrar o arquivo zip
-   6    Descompactar a pasta
-   7    Abrir o VS CODE
-   8    Clicar em arquivo >abrir a pasta descompactada
-   9    No VScode acessar a pasta src > test > runner
-  10    Dentro de runner clicar em TestRunner.java
-  11    Ao lado da linha 13 clicar no icone play para esecutar o projeto
+ 1  Clicar em "code" no GitHub
+ 2  Clicar em "Download Zip" para baixar o arquivo
+ 3  Acessar a área de Download do PC
+ 4  Encontrar o arquivo zip
+ 5  Descompactar a pasta
+ 6  Abrir o VS CODE
+ 7  Clicar em arquivo >abrir a pasta descompactada
+ 8  No VScode acessar a pasta src > test > runner
+ 9  Dentro de runner clicar em TestRunner.java
+10  Ao lado da linha 13 clicar no icone play para esecutar o projeto
 
 # Link úteis 
 Download Java JDK 11   
